@@ -1,0 +1,22 @@
+version:2975
+autoJump:false
+enableVsync:false
+mouseSensitivity:0.5
+gamma:0.5
+renderDistance:12
+simulationDistance:12
+entityDistanceScaling:1.0
+guiScale:3
+particles:0
+maxFps:120
+difficulty:2
+graphicsMode:1
+ao:2
+renderClouds:true
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Excalibur_Mod_Support_V1.18.1.1.zip","file/Excalibur_V1.18.1.zip","file/Better-Leaves-6.1-1.13+.zip"]
+incompatibleResourcePacks:[]
+lang:ru_ru
+mipmapLevels:4
+toggleCrawl:true
+soundCategory_master:0.4
+soundCategory_music:0.2
