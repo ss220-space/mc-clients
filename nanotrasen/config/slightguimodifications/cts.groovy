@@ -21,17 +21,6 @@ mainMenu {
     removeEditionBadge()
     clearAllButtons()
 
-    label {
-        position {
-            x = 2
-            y {
-                it - 20
-            }
-        }
-
-        text = literal("SS220 - Кастомный All of Fabric 5 - Версия 0.3.0")
-    }
-
     button {
         position {
             x {it / 10 + 105}
