@@ -21,6 +21,17 @@ mainMenu {
     removeEditionBadge()
     clearAllButtons()
 
+    label {
+        position {
+            x = 2
+            y {
+                it - 10
+            }
+        }
+
+        text = literal("SS220 Nanotrasen [https://games.ss220.space]")
+    }
+
     button {
         position {
             x {it / 10 + 105}
