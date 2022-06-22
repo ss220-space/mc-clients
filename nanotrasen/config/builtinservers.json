@@ -1,8 +1,12 @@
 {
   "builtinServers": [
     {
-      "name": "SS220 Nanotrasen",
+      "name": "SS220 AOF5",
       "address": "game.ss220.space"
+    },
+    {
+      "name": "SS220 Nanotrasen Test",
+      "address": "game.ss220.space:25566"
     }
   ]
 }
